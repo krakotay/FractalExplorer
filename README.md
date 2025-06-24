@@ -254,6 +254,11 @@ This project is distributed under the Apache 2.0 license. The full text of the l
   }
 </style>
 
+## 🦀 Rust Prototype
+
+An experimental Rust application using `egui` lives in `rust-egui-fractal/`.
+It renders the Mandelbrot set using multi-threaded calculations via `rayon`.
+
 ## 📜 Лицензия
 
 Этот проект распространяется под лицензией Apache 2.0. Полный текст лицензии доступен в [LICENSE.md](LICENSE.md).
